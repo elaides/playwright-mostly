@@ -8,8 +8,19 @@ This repository demonstrates how to set up a Playwright test framework using Jes
 
 ## Installation
    
-2. Install dependencies:
+```
+git clone 
+```
+```
+npm i 
+```
 
-    npm install
+## Run tests:
+```
+npx playwright test --reporter=html
+```
 
-
+## Show the report:
+```
+npx playwright show-report
+```
