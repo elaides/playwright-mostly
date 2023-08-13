@@ -7,8 +7,9 @@ This repository demonstrates how to set up a Playwright test framework using Jes
 - Node.js and npm should be installed on your machine.
 
 ## Installation
+   
+2. Install dependencies:
 
-1. Clone this repository:
+    npm install
 
-   git clone https://github.com/your-username/playwright-test-framework.git
-   cd playwright-test-framework
+
